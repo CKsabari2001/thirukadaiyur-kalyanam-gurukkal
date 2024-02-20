@@ -29,7 +29,7 @@ The S.M. Kalyanam Gurukkal website is designed to showcase the business informat
 
 ## Demo
 
-Check out the live demo of the Dice Harmony - https://thirukadaiyur-kalyanam-gurukkal.netlify.app/
+Check out the live demo of the S.M. Kalyanam Gurukkal Website - https://thirukadaiyur-kalyanam-gurukkal.netlify.app/
 
 ## Run Locally
 
