@@ -6,6 +6,10 @@ Welcome to the S.M. Kalyanam Gurukkal website project repository! This project i
 
 The S.M. Kalyanam Gurukkal website is designed to showcase the business information and contact details of S.M. Kalyanam Gurukkal. It features a variety of sections to highlight their services and accommodations, aiming to attract potential customers and promote their business effectively.
 
+## Demo
+
+Check out the live demo of the S.M. Kalyanam Gurukkal Website - https://thirukadaiyur-kalyanam-gurukkal.netlify.app/
+
 ## Key Features
 
 - **Slider Banner with Moving Text**: Engage users with a slider banner featuring dynamic text, grabbing their attention and providing essential information about S.M. Kalyanam Gurukkal's services.
@@ -27,9 +31,6 @@ The S.M. Kalyanam Gurukkal website is designed to showcase the business informat
 
 ![306064850-a3e9189c-f8b0-408b-854a-6ca2eedfab19](https://github.com/CKsabari2001/thirukadaiyur-kalyanam-gurukkal/assets/110533554/585a7645-c603-46ce-82d4-6473b11ab3f7)
 
-## Demo
-
-Check out the live demo of the S.M. Kalyanam Gurukkal Website - https://thirukadaiyur-kalyanam-gurukkal.netlify.app/
 
 ## Run Locally
 
